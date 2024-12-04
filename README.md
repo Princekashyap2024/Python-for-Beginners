@@ -30,7 +30,7 @@ Your contributions will help make this repository even more valuable for the com
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/python-for-beginners.git
+   git clone https://github.com/princekashyap2024/python-for-beginners.git
 
 2. Navigate to the folder and explore the code examples.
 
